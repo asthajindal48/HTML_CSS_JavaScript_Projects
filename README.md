@@ -4,6 +4,22 @@ These projects contains many animated, slider and other effects like this.
 Used advanced CSS to add the hover and transition effects.
 The code is understandable and editable.
 
+NAME OF PROJECTS:
+
+1. 3-D PHONE ROTATION
+2. ANIMATED PORTFOLIO
+3. CAR ANIMATION
+4. FLIPPING CREDIT CARD
+5. E-COMMERCE WEBSITE
+6. GRID GALLERY
+7. HAIR STUDIO WEBSITE
+8. IMAGE REFLECTION 
+9. LIGHTENING ON & OFF EFFECTS
+10. PLAYING MUSIC APP
+11. DRONE ANIMATION
+12. CIRCULAR PROGRESS BAR
+13. NAVIGATION HOVER EFFECTS
+
 SCREENSHOTS OF PROJECTS:
 
 ![3-D Phone](https://user-images.githubusercontent.com/96605508/162099124-988b4aef-e1e4-4179-a856-c12008e21b11.PNG)
